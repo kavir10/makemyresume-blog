@@ -3,7 +3,7 @@
     <title>MakeMyResume Guide</title>
     <link href="https://guide.makemyresume.co.in/feed.xml" rel="self" />
     <link href="https://guide.makemyresume.co.in" />
-    <updated>2021-08-07T15:21:11+05:30</updated>
+    <updated>2021-08-07T15:37:36+05:30</updated>
     <author>
         <name>MakeMyResume</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://guide.makemyresume.co.in/self-employed-resume/</id>
             <category term="Resume"/>
 
-        <updated>2021-08-07T15:21:11+05:30</updated>
+        <updated>2021-08-07T15:37:36+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://guide.makemyresume.co.in/media/posts/59/photo-1592151450113-bdf5982da1691" alt="Self-Employed on Resume" />
@@ -48,11 +48,7 @@
 <p><span style="font-weight: 400;">Frankly, structure it like any other stint where you were employed - that is to say mention all the tasks you performed, any key highlights or accomplishments&lt;link to ‘How do you write an impact on a resume?’&gt;, </span><a href="https://guide.makemyresume.co.in/resume-writing-tips/"><span style="font-weight: 400;">your skills and projects</span></a><span style="font-weight: 400;">. </span></p>
 <p><span style="font-weight: 400;">Here’s a simple checklist to follow, chronologically:</span></p>
 <ul>
-<li style="list-style-type: none;">
-<ul>
 <li style="font-weight: 400;" aria-level="1"><strong>Job title </strong><span style="font-weight: 400;">- The same as the role you’re applying to, IF APPLICABLE; otherwise, go for the nearest applicable one. Avoid using self-employed and go for alternatives like contract, freelancer, consultant, etc.</span></li>
-</ul>
-</li>
 </ul>
 <ul>
 <li aria-level="1"><strong>Duration</strong><span style="font-weight: 400;"> - Mention the duration in a </span><i><span style="font-weight: 400;">Mon YYYY - Mon YYYY </span></i><span style="font-weight: 400;">format</span></li>
@@ -61,18 +57,18 @@
 <li aria-level="1"><strong>Company </strong><span style="font-weight: 400;">- IF you did create your own company/website/pages, use the name, even if it failed. Entrepreneurial spirit and the set of skills such as self-motivation &amp; discipline that come with it don’t go unnoticed</span></li>
 </ul>
 <ul>
-<li style="list-style-type: none;">
-<ul>
 <li style="font-weight: 400;" aria-level="1"><strong>Responsibilities </strong><span style="font-weight: 400;">- Structure the sentences in the same way as an employed stint - include all the relevant and allied tasks performed, tools &amp; skills utilized and projects worked on. Remember to:</span>
 <ul>
 <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Provide quantified information as it lends </span><a href="https://talent.works/2018/01/08/the-science-of-the-job-search-part-i-13-data-backed-ways-to-win/"><span style="font-weight: 400;">credibility</span></a></li>
 </ul>
 </li>
 </ul>
-</li>
-</ul>
+<ul>
+<li style="list-style-type: none;">
 <ul>
 <li aria-level="2"><span style="font-weight: 400;">Mention the companies you worked for/with as a freelancer - take advantage of the smallest chance of network effects</span></li>
+</ul>
+</li>
 </ul>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><strong>Highlights </strong><span style="font-weight: 400;">- Ensure to mention notable work or accomplishments during your stint as a freelancer</span></li>
