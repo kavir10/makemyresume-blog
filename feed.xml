@@ -3,7 +3,7 @@
     <title>MakeMyResume Guide</title>
     <link href="https://guide.makemyresume.co.in/feed.xml" rel="self" />
     <link href="https://guide.makemyresume.co.in" />
-    <updated>2021-08-09T00:20:56+05:30</updated>
+    <updated>2021-08-09T00:34:24+05:30</updated>
     <author>
         <name>MakeMyResume</name>
     </author>
@@ -18,18 +18,17 @@
         <id>https://guide.makemyresume.co.in/f-format-resume/</id>
             <category term="Resume"/>
 
-        <updated>2021-08-09T00:20:56+05:30</updated>
+        <updated>2021-08-09T00:34:24+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://guide.makemyresume.co.in/media/posts/60/f_reading_pattern_eyetracking_nngroup1.jpg" alt="F Format Resume" />
-                     The F format is an offbeat, data-backed template created to highlight and focus on your professional skills and competencies, while relegating lesser importance to your work experience. It groups the tasks you’ve performed in all your roles under different skills which serve as the&hellip;
+                    The F format is an offbeat, data-backed template created to highlight and focus on your professional skills and competencies, while relegating lesser importance to your work experience. It groups the tasks you’ve performed in all your roles under different skills which serve as the header,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://guide.makemyresume.co.in/media/posts/60/f_reading_pattern_eyetracking_nngroup1.jpg" alt="F Format Resume" />
-                <h1> </h1>
-<p><span style="font-weight: 400;">The F format is an offbeat, data-backed template created to highlight and focus on your professional skills and competencies, while relegating lesser importance to your work experience.</span></p>
+                <p><span style="font-weight: 400;">The F format is an offbeat, data-backed template created to highlight and focus on your professional skills and competencies, while relegating lesser importance to your work experience.</span></p>
 <p><span style="font-weight: 400;">It groups the tasks you’ve performed in all your roles under different skills which serve as the header, rather than the organization they were executed in; in simple terms, skills replace the organization, role &amp; tenure, and the work is categorized accordingly.</span></p>
 <h2><span style="font-weight: 400;">Why was this format created &amp; why is it used?</span></h2>
 <p><span style="font-weight: 400;">According to an old </span><a href="https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content-discovered/"><span style="font-weight: 400;">study by the Nielsen Norman group</span></a><span style="font-weight: 400;"> in 2006, when scanning text (reading really quickly), people follow an ‘F’ pattern, as demonstrated below:</span></p>
